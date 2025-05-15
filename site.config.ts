@@ -61,5 +61,5 @@ export default siteConfig({
        title: 'Lab',
        pageId: '1f467d3f256b80d3b681cc2b0bf285ad'
      }
-  // ]
+   ]
 })
