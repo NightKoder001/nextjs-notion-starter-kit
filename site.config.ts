@@ -54,8 +54,8 @@ export default siteConfig({
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     title: 'Blog',
+  //     pageId: '1f467d3f256b801fa09fd7696b07aef1'
   //   },
   //   {
   //     title: 'Lab',
