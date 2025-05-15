@@ -58,8 +58,8 @@ export default siteConfig({
   //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
   //   },
   //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     title: 'Lab',
+  //     pageId: '1f467d3f256b80d3b681cc2b0bf285ad'
   //   }
   // ]
 })
