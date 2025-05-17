@@ -60,6 +60,10 @@ export default siteConfig({
      {
        title: 'Lab',
        pageId: '1f467d3f256b80d3b681cc2b0bf285ad'
+     },
+     {
+       title: 'About',
+       pageId: '1f667d3f256b80fa9595d09888e06261'
      }
    ]
 })
