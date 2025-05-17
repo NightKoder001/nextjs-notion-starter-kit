@@ -54,16 +54,24 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
      {
-       title: 'Blog',
+       title: 'Home',
        pageId: '1f467d3f256b801fa09fd7696b07aef1'
      },
      {
+       title: 'Blog',
+       pageId: '1f667d3f256b80ca9978fbefd94f0664'
+     },
+     {
        title: 'Lab',
-       pageId: '1f467d3f256b80d3b681cc2b0bf285ad'
+       pageId: '1f667d3f256b804a90a1fefa3d823ac2'
+     },
+     {
+       title: 'Tutorials',
+       pageId: '1f667d3f256b807d832dc3c818eed00d'
      },
      {
        title: 'About',
-       pageId: '1f667d3f256b80fa9595d09888e06261'
+       pageId: '1f667d3f256b80c58e53f3ab11f70c37'
      }
    ]
 })
